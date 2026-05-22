@@ -1,6 +1,6 @@
-## **Taukane Pires**, Desenvolvedor Web
+## Desenvolvedor Web
 
-Com mais de 20 anos de trajetória no mercado digital, vasta expertise em desenvolvimento Web Front-end e Back-end. Minha atuação foca na criação aplicações otimizadas para conversão.
+### Com mais de 20 anos de trajetória no mercado digital, vasta expertise em desenvolvimento Web Front-end e Back-end. Minha atuação foca na criação aplicações otimizadas para conversão.
 
 ---
 
@@ -15,6 +15,8 @@ https://tauklaravel.onrender.com
 
 https://taukane.com.br
 
-![Taukane Portfolio](https://portfolio-taukane.web.app/image/portfolio-taukane.png "Portfolio Taukane")
+![Taukane Portfolio](https://taukane.com.br/image/portfolio-taukane.png "Portfolio Taukane")
+
+![Tauk Design](https://taukane.com.br/image/taukane-og-image.jpg "Tauk Design")
 
 [![Profile Views](https://komarev.com/ghpvc/?username=taukane&color=ff9900&style=for-the-badge&label=VISITANTES)](https://github.com/taukane)
