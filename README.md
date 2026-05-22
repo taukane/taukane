@@ -1,16 +1,20 @@
-## Hi there 👋
+## **Taukane Pires**, Desenvolvedor Web
 
-<!--
-**taukane/taukane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Com mais de 20 anos de trajetória no mercado digital, vasta expertise em desenvolvimento Web Front-end e Back-end. Minha atuação foca na criação aplicações otimizadas para conversão.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 Web Full Stack
+- 💬 contato@taukdesign.com 
+
+---
+
+## Portfolio
+
+https://tauklaravel.onrender.com
+
+https://taukane.com.br
+
+![Taukane Portfolio](https://portfolio-taukane.web.app/image/portfolio-taukane.png "Portfolio Taukane")
+
+[![Profile Views](https://komarev.com/ghpvc/?username=taukane&color=ff9900&style=for-the-badge&label=VISITANTES)](https://github.com/taukane)
