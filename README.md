@@ -15,7 +15,7 @@ https://tauklaravel.onrender.com
 
 https://taukane.com.br
 
-![Taukane Portfolio](https://taukane.com.br/image/portfolio-taukane.png "Portfolio Taukane")
+![Taukane Portfolio](https://taukane.com.br/image/benner.webp "Portfolio Taukane")
 
 ![Tauk Design](https://taukane.com.br/image/taukane-og-image.jpg "Tauk Design")
 
