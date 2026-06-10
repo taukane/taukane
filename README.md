@@ -15,6 +15,14 @@ https://tauklaravel.onrender.com
 
 https://taukane.com.br
 
+https://taukane.github.io/taukvue
+
+https://taukgo.onrender.com
+
+https://taukangular.netlify.app/
+
+https://taukflutter.web.app/
+
 ![Taukane Portfolio](https://taukane.com.br/image/benner.webp "Portfolio Taukane")
 
 ![Tauk Design](https://taukane.com.br/image/taukane-og-image.jpg "Tauk Design")
